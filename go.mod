@@ -1,4 +1,4 @@
-module github.com/soleimanyben/go-imessage
+module github.com/soleimanyben/gopush
 
 go 1.20
 
